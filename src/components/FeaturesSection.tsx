@@ -4,33 +4,33 @@ const FeaturesSection = () => {
   const features = [
     {
       icon: Brain,
-      title: 'AI-Powered Insights',
-      description: 'Smart suggestions and automatic summarization to help you understand complex topics.',
+      title: 'Placeholder',
+      description: 'Placeholder',
     },
     {
       icon: Link2,
-      title: 'Bi-directional Links',
-      description: 'Create connections between notes that work both ways, building a true knowledge graph.',
+      title: 'Placeholder',
+      description: 'Placeholder',
     },
     {
       icon: Search,
-      title: 'Semantic Search',
-      description: 'Find notes based on meaning, not just keywords. Ask questions in natural language.',
+      title: 'Placeholder',
+      description: 'Placeholder',
     },
     {
       icon: Sparkles,
-      title: 'Flashcard Generation',
-      description: 'Automatically generate study materials from your notes for effective revision.',
+      title: 'Placeholder',
+      description: 'Placeholder',
     },
     {
       icon: FileText,
-      title: 'Multi-format Import',
-      description: 'Import from PDFs, slides, web pages, and more. All your knowledge in one place.',
+      title: 'Placeholder',
+      description: 'Placeholder',
     },
     {
       icon: Share2,
-      title: 'Collaborative Spaces',
-      description: 'Share knowledge bases with study groups and collaborate in real-time.',
+      title: 'Placeholder',
+      description: 'Placeholder',
     },
   ];
 
